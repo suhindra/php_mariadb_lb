@@ -1,23 +1,24 @@
 ## php_mysql_lb
 php App, apache , MariaDB, nginx
 
-## Introduction :
+## Ikhtisar :
 
-* In this project, there is a php application with MariaDB as it database.
-* Two instance of php application is running on apache server.
-* Both instances are linked to MariaDB.
+*   Disini kami telah menggunakan Docker untuk menyebarkan aplikasi, MySQL sebagai database dan Nginx sebagai load balancer. Dua         kontainer Docker akan berkomunikasi dengan satu kontainer MySQL dengan bantuan bantuan Nginx. Kami telah menyiapkan setup lengkap di repositori github kami https://github.com/suhindra/php_mariadb_lb.git
+Silakan lihat repositori yang disebutkan di atas. Ada Dockerfile untuk aplikasi, database dan load balancer.
 
-## Technologies/Tools used : 
 
-* php-apache
+Teknologi dan Tools yang digunakan:
+* Php-apache
 * MariaDB
 * Docker containerization
-* Docker compose
-* Nginx as load balancer.
+* Docker Compose
+* Nginx sebagai Load Balancer.
 
-## Components :
-* Dockerfile : Dockerfile for configuration of php application, MariaDB and Nginx with all of its dependencies.
-* Dcoker-compose.yml : Used to start multiple contaienrs at a time with one simple command.
-* Folders : Containing all application files and configuration files.
+
+## Komponen :
+* Dockerfile        : Dockerfile untuk konfigurasi aplikasi php, MySQL dan Nginx dengan semua dependensinya.
+                      https://hub.docker.com/r/suhindra/php_mysql/
+* Dcoker-compose.yml: Digunakan untuk memulai beberapa containers sekaligus dengan satu perintah sederhana.
+* Folder            : Berisi semua file aplikasi dan file konfigurasi.
 
 
