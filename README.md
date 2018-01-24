@@ -19,6 +19,8 @@ Silakan lihat repositori yang disebutkan di atas. Ada Dockerfile untuk aplikasi,
 ## Komponen :
 * Dockerfile        : Dockerfile untuk konfigurasi aplikasi php, MySQL dan Nginx dengan semua dependensinya.
                       https://hub.docker.com/r/suhindra/php_mysql/
+                      https://hub.docker.com/r/suhindra/php_app/
+
 * Dcoker-compose.yml: Digunakan untuk memulai beberapa containers sekaligus dengan satu perintah sederhana.
 * Folder            : Berisi semua file aplikasi dan file konfigurasi.
 
