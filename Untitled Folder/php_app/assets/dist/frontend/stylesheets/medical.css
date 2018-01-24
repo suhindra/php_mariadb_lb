@@ -1,0 +1,627 @@
+@font-face {
+    font-family: 'Medical';
+    src:    url('../fonts/Medicald07c.eot?9piqgz');
+    src:    url('../fonts/Medicald07c.eot?9piqgz#iefix') format('embedded-opentype'),
+        url('../fonts/Medicald07c.ttf?9piqgz') format('truetype'),
+        url('../fonts/Medicald07c.woff?9piqgz') format('woff'),
+        url('../fonts/Medicald07c.svg?9piqgz#Medical') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'Medical' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-atom-variant:before {
+    content: "\e900";
+}
+.icon-back-part-of-the-body-showing-butt-area:before {
+    content: "\e901";
+}
+.icon-ball-of-the-knee:before {
+    content: "\e902";
+}
+.icon-blond-female-hair-shape:before {
+    content: "\e903";
+}
+.icon-blond-female-short-hair-shape:before {
+    content: "\e904";
+}
+.icon-blood-drop-on-a-hand-wound:before {
+    content: "\e905";
+}
+.icon-body-cells-under-a-magnification-tool:before {
+    content: "\e906";
+}
+.icon-body-organ-variant-with-line:before {
+    content: "\e907";
+}
+.icon-body-organ-with-hair-strands-view-on-plate:before {
+    content: "\e908";
+}
+.icon-body-part-with-baby-inside:before {
+    content: "\e909";
+}
+.icon-body-part-with-lines:before {
+    content: "\e90a";
+}
+.icon-body-part-x-ray-internal-vision:before {
+    content: "\e90b";
+}
+.icon-bone-structure-tip:before {
+    content: "\e90c";
+}
+.icon-bones-cross:before {
+    content: "\e90d";
+}
+.icon-bones-silhouette-forming-a-cross-symbol:before {
+    content: "\e90e";
+}
+.icon-bones-x-ray-vision:before {
+    content: "\e90f";
+}
+.icon-bosom:before {
+    content: "\e910";
+}
+.icon-brain-body-organ-outline:before {
+    content: "\e911";
+}
+.icon-brain-inside-human-head:before {
+    content: "\e912";
+}
+.icon-brain-upper-view-outline:before {
+    content: "\e913";
+}
+.icon-brunette-female-woman-long-hair:before {
+    content: "\e914";
+}
+.icon-butt-wearing-underwear:before {
+    content: "\e915";
+}
+.icon-calf-and-foot:before {
+    content: "\e916";
+}
+.icon-capsule-black-and-white-variant:before {
+    content: "\e917";
+}
+.icon-circular-shape-variant-with-dot:before {
+    content: "\e918";
+}
+.icon-closed-eyes-with-lashes-and-brows:before {
+    content: "\e919";
+}
+.icon-closed-fist-hand-gesture:before {
+    content: "\e91a";
+}
+.icon-column-inside-a-male-human-body-silhouette-in-side-view:before {
+    content: "\e91b";
+}
+.icon-couple-of-fingers:before {
+    content: "\e91c";
+}
+.icon-cross-in-a-circle-on-a-human-body-silhouette:before {
+    content: "\e91d";
+}
+.icon-dentist:before {
+    content: "\e91e";
+}
+.icon-dna-deoxyribonucleic-acid:before {
+    content: "\e91f";
+}
+.icon-dna-strands-outline:before {
+    content: "\e920";
+}
+.icon-dna:before {
+    content: "\e921";
+}
+.icon-domino-piece-with-six-dots:before {
+    content: "\e922";
+}
+.icon-ear-lobe-side-view-outline:before {
+    content: "\e923";
+}
+.icon-ear-outline:before {
+    content: "\e924";
+}
+.icon-excretory-system-silhouette:before {
+    content: "\e925";
+}
+.icon-eye-outline-with-lashes:before {
+    content: "\e926";
+}
+.icon-eye-variant-with-enlarged-pupil:before {
+    content: "\e927";
+}
+.icon-eyeball:before {
+    content: "\e928";
+}
+.icon-face-of-a-woman-outline:before {
+    content: "\e929";
+}
+.icon-female-blond-hair-shape-outline:before {
+    content: "\e92a";
+}
+.icon-female-hair-variant-outline:before {
+    content: "\e92b";
+}
+.icon-female-hips-and-waist:before {
+    content: "\e92c";
+}
+.icon-female-human-eyes:before {
+    content: "\e92d";
+}
+.icon-female-reproductive-system-representation:before {
+    content: "\e92e";
+}
+.icon-female-short-hair-style-variant:before {
+    content: "\e92f";
+}
+.icon-female-short-hair-variant:before {
+    content: "\e930";
+}
+.icon-female-sign:before {
+    content: "\e931";
+}
+.icon-female-torso-outline-in-topless:before {
+    content: "\e932";
+}
+.icon-fetus-in-an-uterus:before {
+    content: "\e933";
+}
+.icon-first-aid-cross-in-a-circle:before {
+    content: "\e934";
+}
+.icon-foot-side-view-outline:before {
+    content: "\e935";
+}
+.icon-footprints-outline-variant:before {
+    content: "\e936";
+}
+.icon-gallbladder-on-viewing-plate:before {
+    content: "\e937";
+}
+.icon-gymnast-in-frontal-view-showing-his-muscles:before {
+    content: "\e938";
+}
+.icon-hair-follicle:before {
+    content: "\e939";
+}
+.icon-hand-bones-in-x-ray-plate:before {
+    content: "\e93a";
+}
+.icon-hand-finger-with-a-ribbon:before {
+    content: "\e93b";
+}
+.icon-hand-gesture-outline-pointing-to-the-left:before {
+    content: "\e93c";
+}
+.icon-hand-gesture-pointing-to-the-left:before {
+    content: "\e93d";
+}
+.icon-hand-gesture-raising-the-index-finger:before {
+    content: "\e93e";
+}
+.icon-hand-nadis:before {
+    content: "\e93f";
+}
+.icon-hand-outline:before {
+    content: "\e940";
+}
+.icon-hand-palm-outline-with-scratch-wound-with-blood-droplet:before {
+    content: "\e941";
+}
+.icon-hand-palm-outline:before {
+    content: "\e942";
+}
+.icon-hand-showing-palm-outline-with-band-aid:before {
+    content: "\e943";
+}
+.icon-hand-showing-palm-outline:before {
+    content: "\e944";
+}
+.icon-heart-black-shape-for-valentines:before {
+    content: "\e945";
+}
+.icon-heart-shape-outline-with-lifeline-variant:before {
+    content: "\e946";
+}
+.icon-heart-shape-with-beats-line:before {
+    content: "\e947";
+}
+.icon-heart-silhouette:before {
+    content: "\e948";
+}
+.icon-hips-bones-x-rays-vision:before {
+    content: "\e949";
+}
+.icon-hips-human-body-part:before {
+    content: "\e94a";
+}
+.icon-hips-x-rays-image-on-standing-man-hands:before {
+    content: "\e94b";
+}
+.icon-human-body-silhouette-with-focus-on-respiratory-system:before {
+    content: "\e94c";
+}
+.icon-human-body-silhouette-with-focus-on-the-head:before {
+    content: "\e94d";
+}
+.icon-human-body-silhouette-with-highlight-on-large-intestines:before {
+    content: "\e94e";
+}
+.icon-human-body-standing-black-silhouette:before {
+    content: "\e94f";
+}
+.icon-human-body-with-heart-silhouette:before {
+    content: "\e950";
+}
+.icon-human-body-with-x-ray-plate-focusing-on-stomach:before {
+    content: "\e951";
+}
+.icon-human-footprints:before {
+    content: "\e952";
+}
+.icon-human-hair-outline-shape:before {
+    content: "\e953";
+}
+.icon-human-hand-bones:before {
+    content: "\e954";
+}
+.icon-human-head-silhouette-with-a-line-in-mouth-pharynx-and-larynx:before {
+    content: "\e955";
+}
+.icon-human-hips-bones-inside-a-standing-male-body-black-silhouette:before {
+    content: "\e956";
+}
+.icon-human-lips:before {
+    content: "\e957";
+}
+.icon-human-lungs-outline:before {
+    content: "\e958";
+}
+.icon-human-outline-with-heart:before {
+    content: "\e959";
+}
+.icon-human-ribs-bones:before {
+    content: "\e95a";
+}
+.icon-human-silhouette-with-focus-on-the-lungs:before {
+    content: "\e95b";
+}
+.icon-human-silhouette-with-white-image-of-the-heart:before {
+    content: "\e95c";
+}
+.icon-human-skull-side-view-silhouette:before {
+    content: "\e95d";
+}
+.icon-human-skull-side-view:before {
+    content: "\e95e";
+}
+.icon-human-skull-with-crossed-bones-silhouette:before {
+    content: "\e95f";
+}
+.icon-hunger-games-hand-gesture:before {
+    content: "\e960";
+}
+.icon-hydration:before {
+    content: "\e961";
+}
+.icon-image-of-sperm-cells:before {
+    content: "\e962";
+}
+.icon-injured-tooth:before {
+    content: "\e963";
+}
+.icon-internal-human-organs-couple:before {
+    content: "\e964";
+}
+.icon-internal-human-organs:before {
+    content: "\e965";
+}
+.icon-intestines:before {
+    content: "\e966";
+}
+.icon-kidney-outline:before {
+    content: "\e967";
+}
+.icon-kneecap:before {
+    content: "\e968";
+}
+.icon-large-intestine-outline:before {
+    content: "\e969";
+}
+.icon-large-intestines-outline:before {
+    content: "\e96a";
+}
+.icon-lifeline-and-heart-shape-on-a-graphic:before {
+    content: "\e96b";
+}
+.icon-liquid-droplet-on-ground:before {
+    content: "\e96c";
+}
+.icon-liver-organ-inside-the-abdomen-outline:before {
+    content: "\e96d";
+}
+.icon-liver:before {
+    content: "\e96e";
+}
+.icon-long-wavy-hair-variant:before {
+    content: "\e96f";
+}
+.icon-lungs-image-on-man-hands:before {
+    content: "\e970";
+}
+.icon-lungs-inside-the-human-body:before {
+    content: "\e971";
+}
+.icon-lungs-shape-in-a-circle-on-a-human-body:before {
+    content: "\e972";
+}
+.icon-lungs-with-the-trachea:before {
+    content: "\e973";
+}
+.icon-male-and-female-gender-symbols:before {
+    content: "\e974";
+}
+.icon-male-arm-muscles:before {
+    content: "\e975";
+}
+.icon-male-black-short-hair-shape-silhouette:before {
+    content: "\e976";
+}
+.icon-male-cartoon-outline-with-liquid-droplet:before {
+    content: "\e977";
+}
+.icon-male-hair-variant:before {
+    content: "\e978";
+}
+.icon-male-hand-palm-outline:before {
+    content: "\e979";
+}
+.icon-male-head-outline-side-view-with-medical-tape:before {
+    content: "\e97a";
+}
+.icon-male-head-side-view-with-brains:before {
+    content: "\e97b";
+}
+.icon-male-hips-and-quadriceps:before {
+    content: "\e97c";
+}
+.icon-male-human-body-silhouette-variant:before {
+    content: "\e97d";
+}
+.icon-male-legs-couple:before {
+    content: "\e97e";
+}
+.icon-male-nose-shape-of-a-line:before {
+    content: "\e97f";
+}
+.icon-male-outline-with-heart-shape-and-lifeline:before {
+    content: "\e980";
+}
+.icon-male-outline-with-image-of-the-heart:before {
+    content: "\e981";
+}
+.icon-male-outline-with-stomach-silhouette:before {
+    content: "\e982";
+}
+.icon-male-outline-with-syringe-symbol:before {
+    content: "\e983";
+}
+.icon-male-short-hair-shape:before {
+    content: "\e984";
+}
+.icon-male-sign:before {
+    content: "\e985";
+}
+.icon-male-silhouette-showing-view-of-dna-structure:before {
+    content: "\e986";
+}
+.icon-male-silhouette-with-body-organ-in-x-ray-view:before {
+    content: "\e987";
+}
+.icon-male-silhouette-with-plate-showing-sperms:before {
+    content: "\e988";
+}
+.icon-male-with-bald-hair-side-view:before {
+    content: "\e989";
+}
+.icon-man-having-an-x-ray-of-bone:before {
+    content: "\e98a";
+}
+.icon-man-holding-a-hand-bones-x-ray-image:before {
+    content: "\e98b";
+}
+.icon-man-outline-with-view-of-the-intestine:before {
+    content: "\e98c";
+}
+.icon-man-torso-muscles:before {
+    content: "\e98d";
+}
+.icon-medical-kit-outline:before {
+    content: "\e98e";
+}
+.icon-molecule-with-rings:before {
+    content: "\e98f";
+}
+.icon-moustache-outline:before {
+    content: "\e990";
+}
+.icon-mouth-outline-showing-off-tongue:before {
+    content: "\e991";
+}
+.icon-muscular-arm-outline:before {
+    content: "\e992";
+}
+.icon-mustache-curled-tip-variant:before {
+    content: "\e993";
+}
+.icon-nose-outline:before {
+    content: "\e994";
+}
+.icon-nose-pointed-variant-with-mustache:before {
+    content: "\e995";
+}
+.icon-observing-human-body-details-with-a-magnifier-tool:before {
+    content: "\e996";
+}
+.icon-pelvic-bone-silhouette:before {
+    content: "\e997";
+}
+.icon-pills-container:before {
+    content: "\e998";
+}
+.icon-plate-showing-deoxyribonucleic-acid-structure:before {
+    content: "\e999";
+}
+.icon-polygon-shape-outline-with-circle-and-stitch:before {
+    content: "\e99a";
+}
+.icon-ribs-lines:before {
+    content: "\e99b";
+}
+.icon-ribs-x-rays:before {
+    content: "\e99c";
+}
+.icon-short-black-male-hair-shape:before {
+    content: "\e99d";
+}
+.icon-skin-layers-with-hair-follicles:before {
+    content: "\e99e";
+}
+.icon-skull-cartoon-variant-outline:before {
+    content: "\e99f";
+}
+.icon-skull-cartoon-variant-with-tape-on-left-eye:before {
+    content: "\e9a0";
+}
+.icon-skull-of-straight-lines:before {
+    content: "\e9a1";
+}
+.icon-skull-outline-from-frontal-view:before {
+    content: "\e9a2";
+}
+.icon-small-syringe-with-large-droplet-of-fluid:before {
+    content: "\e9a3";
+}
+.icon-smiling-mouth-showing-teeth:before {
+    content: "\e9a4";
+}
+.icon-sperm-entering-to-an-ovule:before {
+    content: "\e9a5";
+}
+.icon-sperms:before {
+    content: "\e9a6";
+}
+.icon-spleen-human-body-part:before {
+    content: "\e9a7";
+}
+.icon-spleen:before {
+    content: "\e9a8";
+}
+.icon-standing-human-body-shape:before {
+    content: "\e9a9";
+}
+.icon-standing-human-body-silhouette:before {
+    content: "\e9aa";
+}
+.icon-standing-male-silhouette-with-x-ray-view-of-the-lungs:before {
+    content: "\e9ab";
+}
+.icon-standing-man-holding-a-large-intestines-image:before {
+    content: "\e9ac";
+}
+.icon-standing-man-holding-an-x-rays-image:before {
+    content: "\e9ad";
+}
+.icon-stomach-inside-human-body:before {
+    content: "\e9ae";
+}
+.icon-stomach:before {
+    content: "\e9af";
+}
+.icon-straight-bones-cross:before {
+    content: "\e9b0";
+}
+.icon-sweat-or-tear-drop-outline:before {
+    content: "\e9b1";
+}
+.icon-symmetrical-body-parts:before {
+    content: "\e9b2";
+}
+.icon-syringe:before {
+    content: "\e9b3";
+}
+.icon-tablet-and-capsule-medications:before {
+    content: "\e9b4";
+}
+.icon-test-tube-with-droplet:before {
+    content: "\e9b5";
+}
+.icon-thin-lips-outline:before {
+    content: "\e9b6";
+}
+.icon-tiptoe-feet-outline:before {
+    content: "\e9b7";
+}
+.icon-tooth-human-body-part:before {
+    content: "\e9b8";
+}
+.icon-tooth-outline-1:before {
+    content: "\e9b9";
+}
+.icon-tooth-outline:before {
+    content: "\e9ba";
+}
+.icon-tooth-shape-outline:before {
+    content: "\e9bb";
+}
+.icon-tooth-x-rays-vision:before {
+    content: "\e9bc";
+}
+.icon-two-fingers-between-three-in-a-hand-outline:before {
+    content: "\e9bd";
+}
+.icon-two-fingers-of-a-hand:before {
+    content: "\e9be";
+}
+.icon-upper-body-muscular-view:before {
+    content: "\e9bf";
+}
+.icon-upper-torso-of-a-woman:before {
+    content: "\e9c0";
+}
+.icon-urine-in-a-flask-for-experimentation:before {
+    content: "\e9c1";
+}
+.icon-uterus-and-fallopian-tube-inside-woman-body-outline:before {
+    content: "\e9c2";
+}
+.icon-uterus-and-fallopian-tube:before {
+    content: "\e9c3";
+}
+.icon-waist:before {
+    content: "\e9c4";
+}
+.icon-woman-dark-long-hair-shape:before {
+    content: "\e9c5";
+}
+.icon-wound-in-a-hand:before {
+    content: "\e9c6";
+}
+.icon-young-male-black-short-hair-shape:before {
+    content: "\e9c7";
+}
+

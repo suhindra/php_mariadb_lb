@@ -1,0 +1,13 @@
+.ie10 span.mym:before {
+  left: 14px !important;
+}
+.ie10 span.mym:after {
+	left: -15px !important;
+}
+/**/
+html.ie11 body.blog-list span.mym:before {
+  left: 13px !important;
+}
+html.ie11 body.blog-list span.mym:after {
+  left: -14px !important;
+}
