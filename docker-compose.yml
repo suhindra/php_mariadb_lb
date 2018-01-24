@@ -1,0 +1,50 @@
+version: '2'
+services:
+
+    myadmin:
+        image: phpmyadmin/phpmyadmin
+        container_name: phpmyadmin
+        ports:
+            - "8080:80"
+        environment:
+            - PMA_ARBITRARY=1
+            - PMA_HOST=mysql
+        restart: always
+        depends_on:
+            - db
+    db:
+        image: mariadb
+        container_name: mysql
+        restart: always
+        environment:
+            - MYSQL_DATABASE=tcc
+            - MYSQL_ROOT_PASSWORD=root
+            - MYSQL_USER=admin
+            - MYSQL_PASSWORD=admin
+        ports:
+            - "3306:3306"
+        volumes:
+            - "./data/db/mysql:/var/lib/mysql"
+    
+    app_server1:
+        image: suhindra/php_app
+        ports: 
+             - 8081:80
+        depends_on:
+             - db
+
+    app_server2:
+        image: suhindra/php_app        
+        ports:
+             - 8082:80
+        depends_on:
+             - db
+ 
+    nginx:
+        image: suhindra/nginx_php
+        ports:
+             - 85:80
+        depends_on:
+             - db
+             - app_server1
+             - app_server2  
