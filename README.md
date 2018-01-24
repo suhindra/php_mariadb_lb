@@ -1,4 +1,5 @@
-## php_mysql_lb
+## Application Deployment menggunakan Docker, Nginx sebagai Load Balancer dan MariaDB sebagai Database ##
+
 php App, apache , MariaDB, nginx
 
 ## Ikhtisar :
