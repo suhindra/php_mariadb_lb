@@ -1,6 +1,6 @@
 ## Application Deployment menggunakan Docker, Nginx sebagai Load Balancer dan MariaDB sebagai Database ##
 
-php App, apache , MariaDB, nginx
+
 
 ## Ikhtisar :
 
@@ -8,7 +8,7 @@ php App, apache , MariaDB, nginx
 Silakan lihat repositori yang disebutkan di atas. Ada Dockerfile untuk aplikasi, database dan load balancer.
 
 
-Teknologi dan Tools yang digunakan:
+## Teknologi dan Tools yang digunakan:
 * Php-apache
 * MariaDB
 * Docker containerization
